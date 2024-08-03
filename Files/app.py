@@ -83,9 +83,11 @@ def main():
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_1.txt",
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_2.txt",
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_3.txt",
+        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/base64/mix",
     ]
     dir_links = [
         "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt",
+        "https://HIN.isherv.in",
         
     ]
 
