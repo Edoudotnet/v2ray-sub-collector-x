@@ -1,7 +1,7 @@
 #profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGg3x3YXJw
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#profile-web: https://github.com/darkness427
+#profile-web: https://github.com/Edoudotnet
 
 
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
