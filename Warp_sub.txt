@@ -1,0 +1,13 @@
+#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGg3x3YXJw
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#profile-web: https://github.com/darkness427
+
+
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp_10-20_40-100_300-500
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
+warp://auto/REvil-MTU1300?ifp=10-20&ifps=40-100&ifpd=20-250#to the rain 🇮🇷&&detour=warp://auto/REvil-MTU1280?ifp=10-20&ifps=40-100&ifpd=20-250#i set fire 🇩🇪
