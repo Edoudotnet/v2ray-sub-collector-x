@@ -77,24 +77,16 @@ def main():
     links = [
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/tuic",
-        "https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt",
-        "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ssr",
-        "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/tr",
+        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_1.txt",
+        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_2.txt",
+        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mci/sub_3.txt",
+        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_1.txt",
+        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_2.txt",
+        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/main/mtn/sub_3.txt",
     ]
     dir_links = [
-        "https://api.yebekhe.link/shervin/",
-        "https://raw.githubusercontent.com/NiREvil/vless/main/sub/G-Core",
-        "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
-        "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/vmess_iran.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Config",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/MCI.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Mobinet.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Mokhabrat.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Rightel.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/irancell.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/shatel.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/various",
+        "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/V2RAY_SUB.txt",
+        
     ]
 
     decoded_links = decode_links(links)
