@@ -4,7 +4,7 @@ import requests
 import binascii
 import os
 
-warp_fixed_text = """#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGg3x3YXJw
+warp_fixed_text = """#profile-title: base64:8J2UvPCdlZ7wnZWS8J2VlfCdlL7wnZWj8J2VkvCdlaHwnZWZ8J2VmvCdlZQ=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #profile-web: https://github.com/Edoudotnet
