@@ -6,7 +6,7 @@ import os
 
 TIMEOUT = 20  # seconds
 
-fixed_text = """#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGgw==
+fixed_text = """#profile-title: base64:8J2UvPCdlZ7wnZWS8J2VlfCdlL7wnZWj8J2VkvCdlaHwnZWZ8J2VmvCdlZQ=
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/Edoudotnet
