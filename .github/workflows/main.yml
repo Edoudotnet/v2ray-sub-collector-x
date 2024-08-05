@@ -7,7 +7,7 @@ on:
       - main
   schedule:
     # Run every 6H
-    - cron: "*/360 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   build:
