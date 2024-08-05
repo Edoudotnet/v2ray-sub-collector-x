@@ -587,21 +587,21 @@ vless://fc367ded-af1b-4284-b758-7943004e79fe@www.zula.ir:8080?security=&type=ws&
 vless://fff5c945-206d-420a-9f80-6a0b95a2e8f8@www.zula.ir:8080?security=&type=ws&path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&encryption=none#🆔Legendaryking_Servers%20🔓%20VL-WS-N/A%20🆥🆥%20%202ms
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
-vless://e1d20865-7550-4df0-b6fd-a706c6c28d83@neth.raspberryip.com:14955/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAibmV0aC5yYXNwYmVycnlpcC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjFhM2E5ZjE0LWVkMDItNDk2NC1iNzFhLTg0Nzk2MTE5ZDUxZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTA0MzYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-vless://341fe918-4e74-4f7f-bbf4-eb6bc4d30e81@neth.raspberryip.com:16852/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @v2ray_configs_pool
-vless://750646b2-d162-44f2-91e8-db0130f792c7@neth.raspberryip.com:15888/?type=ws&encryption=none&flow=&host=neth.raspberryip.com&path=%2F&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @v2ray_configs_pool
-trojan://x5kSg7hzY0@neth.raspberryip.com:17497/?type=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://19afbf28-d06e-480e-8f93-0743c2aa93fc@neth.raspberryip.com:18355/?type=tcp&encryption=none&flow=&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://e1d20865-7550-4df0-b6fd-a706c6c28d83@neth.raspberryip.com:14955/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool
-vless://341fe918-4e74-4f7f-bbf4-eb6bc4d30e81@neth.raspberryip.com:16852/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAibmV0aC5yYXNwYmVycnlpcC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjFhM2E5ZjE0LWVkMDItNDk2NC1iNzFhLTg0Nzk2MTE5ZDUxZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTA0MzYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-trojan://x5kSg7hzY0@neth.raspberryip.com:17497/?type=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://750646b2-d162-44f2-91e8-db0130f792c7@neth.raspberryip.com:15888/?type=ws&encryption=none&flow=&host=neth.raspberryip.com&path=%2F&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @v2ray_configs_pool
-vless://19afbf28-d06e-480e-8f93-0743c2aa93fc@neth.raspberryip.com:18355/?type=tcp&encryption=none&flow=&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-trojan://x5kSg7hzY0@neth.raspberryip.com:17497/?type=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://19afbf28-d06e-480e-8f93-0743c2aa93fc@neth.raspberryip.com:18355/?type=tcp&encryption=none&flow=&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?type=httpupgrade&host=11.V2.b.www.speedtest.net.dnschecker.tecH.&path=/telegram-ArV2ry#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2375#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.133:8118#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTcyLjY0LjEwMy4yMTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ2x3ZWlkZi5jZmQiLCAiaWQiOiAiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImdsd2VpZGYuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+vmess://eyJhZGQiOiAiMTA0LjIxLjk1LjE2NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzYXJlaWtlbGEuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic2FyZWlrZWxhLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SUFycjgxQTZaREx4RVJ4cmM3UkR2@165.22.238.239:44386/?outline=1#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@80.92.204.106:9011#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.112:8009#👉🆔 @v2ray_configs_pool
 
 #profile-title: â¬ SHÎÐ¯VINâ¢ | HIN MINER
 #profile-update-interval: 1 
