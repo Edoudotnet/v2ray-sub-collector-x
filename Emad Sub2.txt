@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/Edoudotnet
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8880/?type=ws&encryption=none&host=bpb.KmEVPs.iR&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880/?type=ws&encryption=none&host=bpb.KmEVPs.iR&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://telegram-id-ArV2ray@104.17.148.22:8080/?type=ws&encryption=none&host=14.V2.www.speedtest.net.g.www.speedtest.net.bahrane.iR.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://telegram-id-ArV2ray@104.17.147.22:8080/?type=ws&encryption=none&host=12.V.V2.www.speedtest.net.f.www.speedtest.net.bahrane.iR.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:8880/?type=ws&encryption=none&host=bpb.KmEVPs.iR&path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://ac17502c-2aea-40b5-a28b-9156e16b46da@213.176.2.19:2040/?encryption=none&host=fast.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8880/?type=ws&encryption=none&host=MlEwKbYr72.mAmMaDu-fAnToMgAmE.OrG&path=%2F#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@104.16.61.8:443/?type=ws&encryption=none&host=usa.freesdns.info&path=%2F&security=tls&sni=usa.freesdns.info&alpn=http%2F1.1&fp=chrome#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
