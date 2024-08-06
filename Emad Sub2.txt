@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/Edoudotnet
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443/?type=ws&encryption=none&host=fraud.chase&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
