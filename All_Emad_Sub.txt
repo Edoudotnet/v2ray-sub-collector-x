@@ -596,21 +596,21 @@ vless://1398d5a1-68e9-436c-a133-236899d1b57e@www.zula.ir:8080?security=&type=ws&
 vless://614a4d9c-3e1d-4ea1-9cf7-723dd0e51e05@www.zula.ir:8080?security=&type=ws&path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&encryption=none#🆔Legendaryking_Servers%20🔓%20VL-WS-N/A%20🆥🆥%20%203ms
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#📌%20SUPPORT-CONTACT @HiNGROUP.T.ME
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#💕 @v2ray_configs_pool 💕
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
+vless://7ab91794-5159-4d5a-9a7c-64be75a73040@85.133.236.122:20555?path=Telegram-Chanel%3At.me%2FHTTP_injector99&security=none&encryption=none&host=speedtest.net&type=ws#💕 @v2ray_configs_pool 💕
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#💕 @v2ray_configs_pool 💕
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETGJxTGlYb1JyMGp4bHFUem5FU29S@64.226.98.217:40678/?outline=1#💕 @v2ray_configs_pool 💕
+vless://94f51d56-204b-466b-b1d7-d397df9273d2@www.zula.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#💕 @v2ray_configs_pool 💕
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=3.V2.b.www.speedtest.net.bahrane.iR.&type=httpupgrade#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVaHpOeWxsWng2ekZGNWhYV2p0TEl1@165.22.238.239:44386/?outline=1#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1nY206c2tHT0FkWGREaGswbGVLOEZ1U3BpeQ@94.131.110.115:47765#💕 @v2ray_configs_pool 💕
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#💕 @v2ray_configs_pool 💕
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕
+vless://94f51d56-204b-466b-b1d7-d397df9273d2@www.payphone.ir:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#💕 @v2ray_configs_pool 💕
+vless://4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.123:80?path=%2Fvless&security=none&encryption=none&host=Uk1.vless.site.&type=ws#💕 @v2ray_configs_pool 💕
+vmess://eyJhZGQiOiAienVsYS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJydWJpa2EuaXIuZ29vZ2xlLmNvbS54bi0tY3I4aGFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEueG4tLWNyOGhhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYS5hcGFzcGVlZHRlc3QubmV0cmF0LmNvbS5ldS5jb20uc2RlMTAzLmlyLnhuLS1jcjhoYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEueG4tLWcyOGguZG5zLWR5bmFtaWMubmV0LiIsICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1QsRSxMLEUsRyxSLEEsTSxYLFYsMixSLEEsWSIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzk1IEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkYzk1In0=
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443/?type=ws&encryption=none&host=bpb-worker-panel-chf.pages.dev&path=%2F%3Fed&security=tls&sni=bpb-worker-panel-chf.pages.dev&alpn=http%2F1.1&fp=chrome#💕 @v2ray_configs_pool 💕
 
 #profile-title: â¬ SHÎÐ¯VINâ¢ | HIN MINER
 #profile-update-interval: 1 
